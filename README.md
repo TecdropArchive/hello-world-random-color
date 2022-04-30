@@ -3,9 +3,11 @@ Hello World Random Color is a Hello World Progressive Web App (HWPWA) that displ
 
 [![Lighthouse Score: 100](https://img.shields.io/badge/lighthouse-100-brightgreen.svg)](https://pwa-directory.appspot.com/pwas/5728630896852992)
 
+### Moved to Glitch: https://glitch.com/~hello-world-random-color
+
 ## Screenshots
 
-![Hello World Random Color - PWA - Windows](https://github.com/hwalab/repo-assets/blob/master/helloworldcolor/readme/hello-world-color-pwa-windows-screenshot.png?raw=true)
+![Hello World Random Color - PWA - Windows](repo-assets/hello-world-random-color-pwa-windows-screenshot.png)
 
 ## Development
 
@@ -15,7 +17,7 @@ Prerequisites: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/), [
 
 ## Contributions
 
-Contributions are welcome: code, text, documentation, design, graphics, suggestions. Please fork this repository and contribute back using [pull requests](https://github.com/hwalab/HelloWorldColor/pulls), or [submit an issue](https://github.com/hwalab/HelloWorldColor/issues).
+Contributions are welcome: code, text, documentation, design, graphics, suggestions. Please fork this repository and contribute back using [pull requests](https://github.com/TecdropArchive/hello-world-random-color/pulls), or [submit an issue](https://github.com/TecdropArchive/hello-world-random-color/issues).
 
 ## License
 
