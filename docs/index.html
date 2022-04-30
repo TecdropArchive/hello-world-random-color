@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Hello World Random Color</title>
+    <meta name="description" content="A Hello World Progressive Web App (HWPWA) that displays a random color, instead of the traditional &quot;Hello, World!&quot; message.">
+
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" href="/images/manifest/hello-world-color-app-icon-180x180.png">
+    <meta name="theme-color" content="#FFFFFF">
+</head>
+
+<body>
+    <noscript>To use Hello World Random Color, please enable JavaScript.</noscript>
+
+    <script src="/scripts/main.js"></script>
+
+    <script>
+        // Register service worker
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", () => {
+                navigator.serviceWorker.register("/sw.js");
+            });
+        }
+    </script>
+</body>
+
+</html>

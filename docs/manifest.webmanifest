@@ -1,0 +1,22 @@
+{
+    "short_name": "Hello World Random Color",
+    "name": "Hello World Random Color",
+    "description": "A Hello World Progressive Web App (HWPWA) that displays a random color, instead of the traditional \"Hello, World!\" message.",
+    "scope": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "start_url": "/?utm_source=a2hs",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/manifest/hello-world-color-app-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/manifest/hello-world-color-app-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
